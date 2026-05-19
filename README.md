@@ -1,4 +1,3 @@
-# Facebook-phishing-simulation
 
 # Facebook Phishing Simulation — Home Lab Project
 
